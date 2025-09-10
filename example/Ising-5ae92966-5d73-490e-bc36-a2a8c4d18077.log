@@ -1,0 +1,13 @@
+*** SIMULATION PARAMETERS ***
+ID: 5ae92966-5d73-490e-bc36-a2a8c4d18077
+Size: 100x100
+Temperature: 2.26918
+External field: 0.0
+Equilibration steps: 1000000
+Measurement steps: 100
+Initial state: T = inf
+
+*** SIMULATION OUTCOME ***
+Mean magnetization: 7.019999999999999E-4
+Variance: 1.7575353535353555E-7
+Acceptance ratio: 0.36
